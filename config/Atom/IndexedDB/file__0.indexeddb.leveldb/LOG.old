@@ -1,0 +1,6 @@
+2018/02/01-19:18:15.403 10992 Reusing MANIFEST /home/hyds/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2018/02/01-19:18:15.403 10992 Recovering log #212
+2018/02/01-19:18:15.406 10992 Reusing old log /home/hyds/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000212.log 
+2018/02/01-19:36:25.950 3532 Level-0 table #215: started
+2018/02/01-19:36:26.003 3532 Level-0 table #215: 2457123 bytes OK
+2018/02/01-19:36:26.010 3532 Delete type=0 #212
