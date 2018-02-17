@@ -1,0 +1,4 @@
+'.source.php':
+    'sfredirect':
+        'prefix': 'sfredirect'
+        'body': "\$this->redirect('${1:url}');"

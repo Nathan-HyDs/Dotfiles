@@ -1,0 +1,5 @@
+'.source.php':
+    'sfparameter':
+        'prefix': 'sfparameter'
+        'leftLabel': '2.7+'
+        'body': "\$this->getParameter('${1:parameter}');"

@@ -1,0 +1,28 @@
+"*":
+  "atom-ide-ui":
+    "atom-ide-diagnostics-ui":
+      showDirectoryColumn: true
+  "atom-material-ui":
+    colors:
+      abaseColor: "#ae0004"
+      accentColor: "#00c7c3"
+      genAccent: true
+      paintCursor: true
+    tabs: {}
+    ui:
+      useAnimations: false
+  core:
+    closeDeletedFileTabs: true
+    telemetryConsent: "limited"
+    themes: [
+      "atom-material-ui"
+      "one-snazzy-syntax"
+    ]
+  editor:
+    fontSize: 18
+  "exception-reporting":
+    userId: "10b24c8c-e26e-4f80-a457-7ecf17c67ed5"
+  "ide-html": {}
+  "travis-ci-status": {}
+  welcome:
+    showOnStartup: false

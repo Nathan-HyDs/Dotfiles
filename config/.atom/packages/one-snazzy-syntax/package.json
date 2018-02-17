@@ -1,0 +1,67 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/tmp/d-11811-2864-egayae.2r6k6e0zfr/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/tmp/d-11811-2864-egayae.2r6k6e0zfr/package.tgz",
+        "spec": "/tmp/d-11811-2864-egayae.2r6k6e0zfr/package.tgz",
+        "type": "local"
+      },
+      "/tmp/apm-install-dir-11811-2864-1bxhr2o.aii4gw4s4i"
+    ]
+  ],
+  "_from": "../d-11811-2864-egayae.2r6k6e0zfr/package.tgz",
+  "_id": "one-snazzy-syntax@1.1.0",
+  "_inCache": true,
+  "_location": "/one-snazzy-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/tmp/d-11811-2864-egayae.2r6k6e0zfr/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/tmp/d-11811-2864-egayae.2r6k6e0zfr/package.tgz",
+    "spec": "/tmp/d-11811-2864-egayae.2r6k6e0zfr/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11811-2864-egayae.2r6k6e0zfr/package.tgz",
+  "_shasum": "7902c8a7f40e042984968e48b36170c8d6a97d5c",
+  "_shrinkwrap": null,
+  "_spec": "/tmp/d-11811-2864-egayae.2r6k6e0zfr/package.tgz",
+  "_where": "/tmp/apm-install-dir-11811-2864-1bxhr2o.aii4gw4s4i",
+  "bugs": {
+    "url": "https://github.com/Cdok/one-snazzy-syntax/issues"
+  },
+  "dependencies": {},
+  "description": "A snazzy dark syntax theme based on One Dark and Snazzy for Hyper Terminal",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/Cdok/one-snazzy-syntax#readme",
+  "keywords": [
+    "dark",
+    "blue",
+    "syntax",
+    "material",
+    "snazzy",
+    "hyper"
+  ],
+  "license": "MIT",
+  "name": "one-snazzy-syntax",
+  "optionalDependencies": {},
+  "readme": "# One Snazzy Syntax Theme\n\n![example of syntax themes](https://cloud.githubusercontent.com/assets/16109837/23923776/40533b02-08c5-11e7-97db-6b228a6ff9e4.png)\n\n> Side-by-side with Snazzy on Hyper terminal\n\nThis theme is based on [One Dark](https://github.com/atom/one-dark-syntax) Syntax Theme, as well as the [Snazzy Theme](https://github.com/sindresorhus/hyper-snazzy) for Hyper Terminal.\n\nWorks best with [Atom Material UI](https://atom.io/themes/atom-material-ui)\n\n## Installation\n\n`apm install one-snazzy-syntax`\n\n## License\n\nLicensed under MIT.\n\nView the license file [here](https://github.com/Cdok/one-snazzy-syntax/blob/master/LICENSE.md).\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cdok/one-snazzy-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "1.1.0"
+}

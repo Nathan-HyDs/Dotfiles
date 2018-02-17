@@ -1,0 +1,4 @@
+'.source.php':
+    'sfforward':
+        'prefix': 'sfforward'
+        'body': "\$this->forward('${1:Controller}'${2:, [${3}]});"

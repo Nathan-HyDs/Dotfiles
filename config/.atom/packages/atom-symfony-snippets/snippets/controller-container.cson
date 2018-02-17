@@ -1,0 +1,4 @@
+'.source.php':
+    'sfcontainer':
+        'prefix': 'sfcontainer'
+        'body': "\$this->get('${1:container}')"

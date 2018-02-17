@@ -1,0 +1,4 @@
+'.source.php':
+    'sfrender':
+        'prefix': 'sfrender'
+        'body': "\$this->render('${1:name}.html.twig'${2:, [${3}]});"

@@ -1,0 +1,4 @@
+'.source.php':
+    'sfsession':
+        'prefix': 'sfsession'
+        'body': "\$session = \$request->getSession();"

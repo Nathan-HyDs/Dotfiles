@@ -1,0 +1,4 @@
+'.source.php':
+    'sfexceptionnotfound':
+        'prefix': 'sfexceptionnotfound'
+        'body': "throw \$this->createNotFoundException(${1:'${2:message}'});"

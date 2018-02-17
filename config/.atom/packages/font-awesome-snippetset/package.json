@@ -1,0 +1,58 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/tmp/d-118020-26695-vdvk0i.v3awx0qkt9/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/tmp/d-118020-26695-vdvk0i.v3awx0qkt9/package.tgz",
+        "spec": "/tmp/d-118020-26695-vdvk0i.v3awx0qkt9/package.tgz",
+        "type": "local"
+      },
+      "/tmp/apm-install-dir-118020-26695-7nf6p.ybn3rtfbt9"
+    ]
+  ],
+  "_from": "../d-118020-26695-vdvk0i.v3awx0qkt9/package.tgz",
+  "_id": "font-awesome-snippetset@0.0.6",
+  "_inCache": true,
+  "_location": "/font-awesome-snippetset",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/tmp/d-118020-26695-vdvk0i.v3awx0qkt9/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/tmp/d-118020-26695-vdvk0i.v3awx0qkt9/package.tgz",
+    "spec": "/tmp/d-118020-26695-vdvk0i.v3awx0qkt9/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-118020-26695-vdvk0i.v3awx0qkt9/package.tgz",
+  "_shasum": "12ccbda1f287bc3f7cd55a6543fc16e5dea78d0f",
+  "_shrinkwrap": null,
+  "_spec": "/tmp/d-118020-26695-vdvk0i.v3awx0qkt9/package.tgz",
+  "_where": "/tmp/apm-install-dir-118020-26695-7nf6p.ybn3rtfbt9",
+  "bugs": {
+    "url": "https://github.com/kevdotbadger/atom-font-awesome/issues"
+  },
+  "dependencies": {},
+  "description": "A 'Font Awesome' snippetset.",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/kevdotbadger/atom-font-awesome#readme",
+  "license": "MIT",
+  "name": "font-awesome-snippetset",
+  "optionalDependencies": {},
+  "readme": "Font Awesome Atom Snippetset",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevdotbadger/atom-font-awesome.git"
+  },
+  "version": "0.0.6"
+}

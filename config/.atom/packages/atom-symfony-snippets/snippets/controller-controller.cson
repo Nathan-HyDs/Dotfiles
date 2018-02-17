@@ -1,0 +1,13 @@
+'.source.php':
+    'sfcontroller':
+        'prefix': 'sfcontroller'
+        'body': """
+namespace AppBundle\\\\Controller;
+
+use Symfony\\\\Bundle\\\\FrameworkBundle\\\\Controller\\\\Controller;
+
+class ${1:Name}Controller extends Controller
+{
+    ${2}
+}
+"""

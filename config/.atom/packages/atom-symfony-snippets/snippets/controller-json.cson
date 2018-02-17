@@ -1,0 +1,5 @@
+'.source.php':
+    'sfjson':
+        'prefix': 'sfjson'
+        'leftLabel': '3.1+'
+        'body': "\$this->json([$1]);"
