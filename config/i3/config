@@ -201,3 +201,5 @@ exec --no-startup-id "perl ~/.myscripts/notif_battery.pl"
 exec --no-startup-id compton
 exec_always --no-startup-id " killall polybar ; polybar -r default"
 exec_always --no-startup-id " killall dunst ; dunst -config ~/.config/dunst/config"
+
+exec rxvt
