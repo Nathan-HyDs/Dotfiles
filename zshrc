@@ -9,12 +9,14 @@ antigen bundle pip
 antigen bundle lein
 antigen bundle command-not-found
 
+antigen bundle tylerreckart/odin
 # Syntax highlighting bundle.
 antigen bundle zsh-users/zsh-syntax-highlighting
 
 
 # Load the theme.
-antigen theme refined
+#antigen theme refined
+antigen theme tylerreckart/odin odin.zsh-theme
 
 # Tell Antigen that you're done.
 antigen apply
