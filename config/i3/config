@@ -47,7 +47,7 @@ bindsym $mod+Shift+s exec rofi -show ssh
 # change focus
 bindsym $mod+j focus left
 bindsym $mod+k focus down
-bindsym $mod+l focus up
+#bindsym $mod+l focus up
 bindsym $mod+m focus right
 
 # alternatively, you can use the cursor keys:
@@ -176,7 +176,7 @@ mode "resize" {
 }
 
 bindsym $mod+r mode "resize"
-
+bindsym $mod+l exec "gnome-screensaver-command -l"
 for_window[class=".*"] border pixel 2
 for_window[class=".*"] title_format "   %title"
 
@@ -196,8 +196,8 @@ no_focus [window_role="pop-up"]
 
 exec --no-startup-id xrdb .Xressources
 exec --no-startup-id "xset -dpms;xset s off"
-exec --no-startup-id nitrogen --restore
 exec --no-startup-id "perl ~/.myscripts/notif_battery.pl"
+exec --no-startup-id nitrogen --restore
 exec --no-startup-id compton
 exec_always --no-startup-id " killall polybar ; polybar -r default"
 exec_always --no-startup-id " killall dunst ; dunst -config ~/.config/dunst/config"
