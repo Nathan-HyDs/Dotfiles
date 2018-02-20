@@ -1,3 +1,17 @@
-2018/02/20-09:55:39.647 8331 Reusing MANIFEST /home/npretot/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
-2018/02/20-09:55:39.647 8331 Recovering log #214
-2018/02/20-09:55:39.681 8331 Reusing old log /home/npretot/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000214.log 
+2018/02/20-18:48:34.397 31344 Reusing MANIFEST /home/hyds/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2018/02/20-18:48:34.398 31344 Recovering log #214
+2018/02/20-18:48:34.403 31344 Level-0 table #217: started
+2018/02/20-18:48:34.421 31344 Level-0 table #217: 1073739 bytes OK
+2018/02/20-18:48:34.421 31344 Recovering log #217
+2018/02/20-18:48:34.429 31344 Reusing old log /home/hyds/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000217.log 
+2018/02/20-18:48:34.433 31344 Delete type=2 #219
+2018/02/20-18:48:34.433 31344 Delete type=0 #214
+2018/02/20-18:48:34.434 31396 Compacting 4@0 + 1@1 files
+2018/02/20-18:48:34.485 31396 Generated table #218@0: 14 keys, 111257 bytes
+2018/02/20-18:48:34.485 31396 Compacted 4@0 + 1@1 files => 111257 bytes
+2018/02/20-18:48:34.490 31396 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/02/20-18:48:34.490 31396 Delete type=2 #211
+2018/02/20-18:48:34.490 31396 Delete type=2 #217
+2018/02/20-18:48:34.490 31396 Delete type=2 #209
+2018/02/20-18:48:34.490 31396 Delete type=2 #215
+2018/02/20-18:48:34.490 31396 Delete type=2 #206
